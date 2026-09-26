@@ -84,7 +84,7 @@
     ],
     videos: [
       {
-        src: "/videos/vasudhara/01.mp4",
+        src: "/videos/vasudhara/vfv1.mp4",
         thumbnail: "/images/vasudhara/02.jpg",
         title: "Vasudhara Falls — a short clip",
         description: "Add a short description of this video here.",
